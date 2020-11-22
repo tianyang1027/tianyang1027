@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on [https://github.com/tianyang1027/MicroBootstrap](https://github.com/mehdihadeli/MicroBootstrap) that is a MicroServices Framework
 - 📃 I blog here: https://cnblogs.com/tianyang1027
 - 💬 Ask me about Clean Architecture, MicroServices, DDD, Event Sourcing, CQRS, .NET Core and Angular
-- 📫 Follow me on Twitter [@timytian](https://twitter.com/mehdi_hadeli) and Linkedin [@timytian](https://www.linkedin.com/in/mehdihadeli/)
+- 📫 Contact me:574713572@qq.com
+
 - 👯 I’m looking to collaborate on: Microservices projects
 
 ---
