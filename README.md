@@ -30,7 +30,7 @@
     <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg" alt="travis" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://angular.io">
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
+    <img src="https://www.vectorlogo.zone/logos/react/react-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
   </a>
   <a href="">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
