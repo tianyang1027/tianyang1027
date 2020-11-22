@@ -4,14 +4,11 @@
  <a href="https://github.com/tianyang1027/vistr.dev" alt="Tim Y Tian's github stats">
   <img src="https://vistr.dev/badge?repo=mehdihadeli&corners=square" />
  </a>
- <a href="https://twitter.com/tianyang1027" alt="Tim Y Tian's github stats">
-   <img src="https://img.shields.io/badge/-@mehdi_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
- </a>
  <a href="https://github.com/tianyang1027" alt="mehdi hadeli's github stats">
    <img src="https://img.shields.io/badge/-@mehdihadeli-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="https://www.linkedin.com/in/tianyang1027" alt="mehdi hadeli's github stats">
-   <img src="https://img.shields.io/badge/-mehdihadeli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdihadeli" />
+   <img src="https://img.shields.io/badge/-mehdihadeli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timytian" />
  </a>
  <a href="https://cnblogs.com/tianyang1027" alt="Tim Y Tian's blog">
    <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=dotnetuniversity.com&url=https://dotnetuniversity.com" />
@@ -23,7 +20,7 @@
 - 🔭 I’m currently working on [https://github.com/tianyang1027/MicroBootstrap](https://github.com/mehdihadeli/MicroBootstrap) that is a MicroServices Framework
 - 📃 I blog here: https://cnblogs.com/tianyang1027
 - 💬 Ask me about Clean Architecture, MicroServices, DDD, Event Sourcing, CQRS, .NET Core and Angular
-- 📫 Follow me on Twitter [@mehdi_hadeli](https://twitter.com/mehdi_hadeli) and Linkedin [@MehdiHadeli](https://www.linkedin.com/in/mehdihadeli/)
+- 📫 Follow me on Twitter [@timytian](https://twitter.com/mehdi_hadeli) and Linkedin [@timytian](https://www.linkedin.com/in/mehdihadeli/)
 - 👯 I’m looking to collaborate on: Microservices projects
 
 ---
