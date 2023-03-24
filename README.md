@@ -6,7 +6,7 @@
 - 💬 Ask me about Clean Architecture, MicroServices, DDD, Event Sourcing, CQRS, .NET Core,React and Vue 
 - 📫 Contact me:574713572@qq.com
 
-- 👯 I’m looking to collaborate on: Microservices projects
+- 👯 I’m looking to collaborate on: AI & NLP projects
 
 ---
 
