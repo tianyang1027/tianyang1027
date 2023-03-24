@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Tim Y Tian👋</h1>
 
 
-- 🔭 I’m currently working on [[https://github.com/tianyang1027/ChatGPT.Net](https://github.com/tianyang1027/chat-with-docs.Net)] that is a OpenAI Framework
+- 🔭 I’m currently working on [[https://github.com/tianyang1027/chat-with-docs](https://github.com/tianyang1027/chat-with-docs)] that is a OpenAI Framework
 - 📃 I blog here: https://cnblogs.com/tianyang1027
 - 💬 Ask me about Clean Architecture, MicroServices, DDD, Event Sourcing, CQRS, .NET Core,React and Vue 
 - 📫 Contact me:574713572@qq.com
