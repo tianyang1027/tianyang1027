@@ -77,6 +77,3 @@
 
 ---
 
-<p align="center">
-  <a href="#" alt="tianyang1027's github stats"><img src="https://github-readme-stats.vercel.app/api?username=tianyang1027"/></a>
-</p>
