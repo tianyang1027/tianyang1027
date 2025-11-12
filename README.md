@@ -28,7 +28,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://scikit-learn.org/">
-    <img src="https://www.vectorlogo.zone/logos/scikit_learn/scikit_learn-ar21.svg" alt="scikit-learn" style="vertical-align:top; margin:4px;">
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://huggingface.co/">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="60px" alt="huggingface" style="vertical-align:top; margin:4px;">
