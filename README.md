@@ -34,7 +34,7 @@
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="60px" alt="huggingface" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://www.langchain.com/">
-    <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/logo.png" height="55px" alt="langchain" style="vertical-align:top; margin:4px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/LangChain_Logo.svg/768px-LangChain_Logo.svg.png?20250612121153" height="55px" alt="langchain" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://www.opencv.org/">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" style="vertical-align:top; margin:4px;">
